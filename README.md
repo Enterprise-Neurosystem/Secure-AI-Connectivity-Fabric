@@ -5,6 +5,7 @@ This track is for determining how an AI system can access and manage data origin
 Meets alternate Tuesdays at 1pm Pacific Time
 
 - [Meeting Notes: Jan 4, 2022](../../wiki/notes-20220104-en-mid.txt)
+- [Meeting Notes: Jan 18, 2022](../../wiki/notes-20220118-en-mid.txt)
 
 <!-- vim: ft=markdown
 !-->
