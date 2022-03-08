@@ -4,6 +4,9 @@ This track is for determining how an AI system can access and manage data origin
 
 Meets alternate Tuesdays at 1pm Pacific Time
 
+**Guidelines**:
+- [Working Group Guidelines](../../wiki/wg-guidelines.txt)
+
 **Monthly Status**:
 
 - [Monthly Status: January 2022](../../wiki/monthly-status-20220203-en-mid.txt)
